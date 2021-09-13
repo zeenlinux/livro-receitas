@@ -1,7 +1,6 @@
-#**strognoff de frango**
-
-**negrito**_italico_ 
-##**INGREDIENTES**
+<h1>strognoff de frango</h1>
+ 
+INGREDIENTES
  - 1 peito de frango sem pele nem osso (cerca de 700 g)
  - 200 g de cogumelos-de-paris
  - 1 cebola
